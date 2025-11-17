@@ -1,4 +1,4 @@
-Year,Term,Applications,Admitted,Enrolled,Retention Rate (%),Student Satisfaction (%),Engineering Enrolled,Business Enrolled,Arts Enrolled,Science Enrolled
+year,term,applications,admitted,enrolled,retention_rate,student_satisfaction,engineering_enrolled,business_enrolled,arts_enrolled,science_enrolled
 2015,Spring,2500,1500,600,85,78,200,150,125,125
 2015,Fall,2500,1500,600,85,78,200,150,125,125
 2016,Spring,2600,1550,625,86,79,210,160,130,125
